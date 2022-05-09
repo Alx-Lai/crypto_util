@@ -1,10 +1,11 @@
 ## now support Algorithm:
 ### Discrete log
-##### factorize p-1
-pohlig-hellman algorithm
+##### pohlig-hellman algorithm
+- factorize p-1
+##### tonelli-shanks
+- discrete sqrt
 
 ### RSA
 
 ##### Fermat-factor
-
-factorize $n = p\cdot q$ where  $p$ is close to $q$
+- factorize $n = p\cdot q$ where  $p$ is close to $q$
